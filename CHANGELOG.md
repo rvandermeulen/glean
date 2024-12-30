@@ -2,6 +2,9 @@
 
 [Full changelog](https://github.com/mozilla/glean/compare/v63.0.0...main)
 
+* Android
+  * BREAKING CHANGE: Updated JNA to version 5.16.0. Projects using older JNA releases may encounter errors until they update. ([#3028](https://github.com/mozilla/glean/pull/3028))
+
 # v63.0.0 (2024-11-28)
 
 [Full changelog](https://github.com/mozilla/glean/compare/v62.0.0...v63.0.0)

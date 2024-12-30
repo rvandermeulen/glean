@@ -23,7 +23,7 @@ androidx-lifecycle = "2.8.4"
 androidx-work = "2.9.0"
 
 # JNA
-jna = "5.14.0"
+jna = "5.16.0"
 
 # Linting and Static Analysis
 detekt = "1.23.6"
